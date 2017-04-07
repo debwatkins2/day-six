@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css?family=Poiret+One");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body  {
+      font-family: 'Poiret One', cursive;
+      color: gray;
+      line-height: 190%;
+      text-align: center;
+      background-color: #a09090;
+      background-image: url(img/background.png);
+}
+h1  {
+      color: black;
+      opacity: .7;
+      font-size: 500%;
+      margin-top: 10%;
+      text-align: center;
+}
+nav {
+      padding-top: 1%;
+      padding-bottom: 1%;
+      margin-top: 5%;
+      border-top: 3px solid gray;
+      border-bottom: 3px solid gray;
+      width: 100%;
+}
+nav ul li  {
+      font-size: 130%;
+      color: black;
+      font-weight: bold;
+      display: inline-block;
+      margin-left: 3%;
+}
+h3    {
+      font-size: 250%;
+      color: black;
+      text-align: center;
+      margin-top: 5%;
+}
+.one-half {
+      display: inline-block;
+      width: 47%;
+      height: auto;
+}
+.one-half p {
+      width: 96%;
+      font-size: 123%;
+      color: black;
+      font-weight: bold;
+      text-align: left;
+      margin-top: 10%;
+      margin-left: 2%;
+}
+.one-half img {
+      width: 92%;
+      height: auto;
+      margin-right: 1%;
+}
+.one-fourth {
+      display: inline-block;
+      width: 22%;
+      height: auto;
+      margin-top: 5%;
+}
+.one-fourth img {
+      width: 95%;
+      height: 400px;
+}
+.intro  {
+      margin-top: 5%;
+      margin-bottom: 2%;
+}
+.intro p  {
+      width: 80%;
+      font-size: 150%;
+      color: black;
+      font-weight: bold;
+      text-align: center;
+      margin-left: 10%;
+}
+.quotes {
+      margin-top: 5%;
+}
+.video-container {
+      margin-bottom: 8%;
+}
+footer  {
+      width: 100%;
+      height: 100px;
+      background-color: #a09090;
+      opacity: .8;
+      border-top: 3px solid gray;
+      margin-top: 5%;
+}
+footer p {
+      font-size: 110%;
+      color: black;
+      opacity: .8;
+      font-weight: bold;
+      text-align: center;
+      padding-top: 2%;
+
+}
